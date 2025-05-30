@@ -1,4 +1,4 @@
-***My bspwm Configuration***
+### ***My bspwm Configuration***
 
 ---
 **Installation:**
