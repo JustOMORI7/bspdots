@@ -26,4 +26,5 @@ picom --config $HOME/.config/picom/picom.conf &
 nitrogen --restore &
 dunst &
 polybar &
-xsetroot -cursor_name left_ptr
+xsetroot -cursor_name left_ptr &
+/usr/lib/polkit-kde-authentication-agent-1
