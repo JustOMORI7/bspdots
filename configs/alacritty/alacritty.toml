@@ -1,0 +1,15 @@
+[window]
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+decorations_theme_variant = "Light" # "Dark"
+
+[font]
+
+normal.family = "CaskaydiaMono Nerd Font"
+bold.family = "CaskaydiaMono Nerd Font"
+italic.family = "CaskaydiaMono Nerd Font"
+bold_italic.family = "CaskaydiaMono Nerd Font"
+size = 9
