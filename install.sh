@@ -16,7 +16,7 @@ else
   echo "paru installed! Installing packages..."
 fi
 
-paru -S sddm bspwm sxhkd polybar picom dunst nitrogen alacritty thunar thunar-volman gvfs gvfs-mtp brightnessctl-bin maim feh betterlockscreen xsetroot qt6ct nwg-look lxappearance bibata-cursor-theme-bin kvantum papirus-icon-theme materia-gtk-theme kvantum-theme-materia rofi playerctl ttf-cascadia-code xdg-user-dirs
+paru -S polkit-kde-agent sddm bspwm sxhkd polybar picom dunst nitrogen alacritty thunar thunar-volman gvfs gvfs-mtp brightnessctl-bin maim feh betterlockscreen xsetroot qt6ct nwg-look lxappearance bibata-cursor-theme-bin kvantum papirus-icon-theme materia-gtk-theme kvantum-theme-materia rofi playerctl ttf-cascadia-code xdg-user-dirs
 
 xdg-user-dirs-update
 
