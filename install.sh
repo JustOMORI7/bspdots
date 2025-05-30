@@ -25,10 +25,10 @@ echo "Copying configuration files..."
 rm -rf ~/.config/alacritty ~/.config/bspwm ~/.config/gtk-2.0 ~/.config/gtk-3.0 ~/.config/Kvantum ~/.config/nitrogen ~/.config/nwg-look ~/.config/picom ~/.config/polybar ~/.config/qt6ct ~/.config/rofi ~/.config/sxhkd
 
 cp -rf ~/bspdots/configs/* ~/.config
-mv ~/.config/.Xresources ~
+mv ~/.config/Xresources ~/.Xresources
 
 mkdir -p ~/.local/share/rofi/themes
-mv ~/.config/rofi-nord.rasi ~/.local/share/rofi/themes
+mv ~/.config/rofi-nord.rasi ~/.local/share/rofi/themes/rofi-nord.rasi
 
 sudo echo "QT_QPA_PLATFORMTHEME=qt6ct" >>/etc/environment
 
