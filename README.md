@@ -1,0 +1,2 @@
+# bspdots
+My bspwm Configuration
