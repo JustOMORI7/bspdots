@@ -30,7 +30,7 @@ mv ~/.config/Xresources ~/.Xresources
 mkdir -p ~/.local/share/rofi/themes
 mv ~/.config/rofi-nord.rasi ~/.local/share/rofi/themes/rofi-nord.rasi
 
-sudo echo "QT_QPA_PLATFORMTHEME=qt6ct" >>/etc/environment
+echo "QT_QPA_PLATFORMTHEME=qt6ct" | sudo tee -a /etc/environment
 
 sudo systemctl enable sddm
 
