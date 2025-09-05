@@ -8,7 +8,7 @@ Prerequisites
 - Ensure you have `git` installed (`sudo pacman -S git`).
   
 ```
-$ git clone https://github.com/iamGHOST755/bspdots.git ~/bspdots
+$ git clone https://github.com/JustOMORI7/bspdots.git ~/bspdots
 $ cd ~/bspdots
 $ chmod +x install.sh
 $ ./install.sh
@@ -33,8 +33,8 @@ Then reboot!
 
 ---
 **Screenshots:**
-![screenshot1](https://github.com/iamGHOST755/bspdots/blob/main/screenshots/screenshot1.png)
-![screenshot2](https://github.com/iamGHOST755/bspdots/blob/main/screenshots/screenshot2.png)
+![screenshot1](https://github.com/JustOMORI7/bspdots/blob/main/screenshots/screenshot1.png)
+![screenshot2](https://github.com/JustOMORI7/bspdots/blob/main/screenshots/screenshot2.png)
 
 ---
 For more information on bspwm, check out the [official github link](https://github.com/baskerville/bspwm).
